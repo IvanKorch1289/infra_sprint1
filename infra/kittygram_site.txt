@@ -1,5 +1,5 @@
- IP: 89.169.162.198;
- name_taski: https://crazyivan1289.ddns.net/;
- name_kittygram: https://crazyivan.zapto.org/;
- login: admin;
- password: admin;
+IP: 89.169.162.198;
+name_taski: https://crazyivan1289.ddns.net/;
+name_kittygram: https://crazyivan.zapto.org/;
+login: admin;
+password: admin;
